@@ -1,0 +1,8 @@
+bin/
+build/
+void-linux-load-artifacts/
+source/
+docs/
+wiki/
+obj/
+.vscode/
